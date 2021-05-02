@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/kitchenStoveElectric.obj-dde5ab7cbd19289d2947cbc3f7743164.mesh"
+
+[deps]
+
+files=[ "res://.import/kitchenStoveElectric.obj-dde5ab7cbd19289d2947cbc3f7743164.mesh" ]
+
+source_file="res://Assets/Furniture/Models/OBJ format/kitchenStoveElectric.obj"
+dest_files=[ "res://.import/kitchenStoveElectric.obj-dde5ab7cbd19289d2947cbc3f7743164.mesh", "res://.import/kitchenStoveElectric.obj-dde5ab7cbd19289d2947cbc3f7743164.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

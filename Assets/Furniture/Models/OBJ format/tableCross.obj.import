@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tableCross.obj-05e0eec1e3edcffcad72408ad5a105d8.mesh"
+
+[deps]
+
+files=[ "res://.import/tableCross.obj-05e0eec1e3edcffcad72408ad5a105d8.mesh" ]
+
+source_file="res://Assets/Furniture/Models/OBJ format/tableCross.obj"
+dest_files=[ "res://.import/tableCross.obj-05e0eec1e3edcffcad72408ad5a105d8.mesh", "res://.import/tableCross.obj-05e0eec1e3edcffcad72408ad5a105d8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

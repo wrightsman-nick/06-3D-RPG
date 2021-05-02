@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rugRectangle.obj-119b0364f7ffbc50401841c84b8ea18e.mesh"
+
+[deps]
+
+files=[ "res://.import/rugRectangle.obj-119b0364f7ffbc50401841c84b8ea18e.mesh" ]
+
+source_file="res://Assets/Furniture/Models/OBJ format/rugRectangle.obj"
+dest_files=[ "res://.import/rugRectangle.obj-119b0364f7ffbc50401841c84b8ea18e.mesh", "res://.import/rugRectangle.obj-119b0364f7ffbc50401841c84b8ea18e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

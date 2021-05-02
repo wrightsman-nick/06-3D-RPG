@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/doorwayOpen.obj-58eb2f37e23c11f3105e8de7ad91ac93.mesh"
+
+[deps]
+
+files=[ "res://.import/doorwayOpen.obj-58eb2f37e23c11f3105e8de7ad91ac93.mesh" ]
+
+source_file="res://Assets/Furniture/Models/OBJ format/doorwayOpen.obj"
+dest_files=[ "res://.import/doorwayOpen.obj-58eb2f37e23c11f3105e8de7ad91ac93.mesh", "res://.import/doorwayOpen.obj-58eb2f37e23c11f3105e8de7ad91ac93.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

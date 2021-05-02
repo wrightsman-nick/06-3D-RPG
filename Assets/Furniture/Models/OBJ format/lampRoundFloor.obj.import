@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lampRoundFloor.obj-d27b5ae30d299d2f52c03e95883c946d.mesh"
+
+[deps]
+
+files=[ "res://.import/lampRoundFloor.obj-d27b5ae30d299d2f52c03e95883c946d.mesh" ]
+
+source_file="res://Assets/Furniture/Models/OBJ format/lampRoundFloor.obj"
+dest_files=[ "res://.import/lampRoundFloor.obj-d27b5ae30d299d2f52c03e95883c946d.mesh", "res://.import/lampRoundFloor.obj-d27b5ae30d299d2f52c03e95883c946d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

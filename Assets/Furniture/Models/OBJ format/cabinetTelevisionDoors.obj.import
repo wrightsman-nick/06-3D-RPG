@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cabinetTelevisionDoors.obj-7b13290a9c86d168cc178275db0e77bd.mesh"
+
+[deps]
+
+files=[ "res://.import/cabinetTelevisionDoors.obj-7b13290a9c86d168cc178275db0e77bd.mesh" ]
+
+source_file="res://Assets/Furniture/Models/OBJ format/cabinetTelevisionDoors.obj"
+dest_files=[ "res://.import/cabinetTelevisionDoors.obj-7b13290a9c86d168cc178275db0e77bd.mesh", "res://.import/cabinetTelevisionDoors.obj-7b13290a9c86d168cc178275db0e77bd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

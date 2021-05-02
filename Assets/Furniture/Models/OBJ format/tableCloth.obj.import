@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tableCloth.obj-c695a2b47af1a5c40445b3910ce3690b.mesh"
+
+[deps]
+
+files=[ "res://.import/tableCloth.obj-c695a2b47af1a5c40445b3910ce3690b.mesh" ]
+
+source_file="res://Assets/Furniture/Models/OBJ format/tableCloth.obj"
+dest_files=[ "res://.import/tableCloth.obj-c695a2b47af1a5c40445b3910ce3690b.mesh", "res://.import/tableCloth.obj-c695a2b47af1a5c40445b3910ce3690b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

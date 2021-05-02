@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lampWall.obj-79fd78d6eb5fa796974f4ac11f09ae63.mesh"
+
+[deps]
+
+files=[ "res://.import/lampWall.obj-79fd78d6eb5fa796974f4ac11f09ae63.mesh" ]
+
+source_file="res://Assets/Furniture/Models/OBJ format/lampWall.obj"
+dest_files=[ "res://.import/lampWall.obj-79fd78d6eb5fa796974f4ac11f09ae63.mesh", "res://.import/lampWall.obj-79fd78d6eb5fa796974f4ac11f09ae63.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

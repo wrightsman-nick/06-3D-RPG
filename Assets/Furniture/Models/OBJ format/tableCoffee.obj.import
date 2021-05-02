@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tableCoffee.obj-bf84446e8072c30760b5316b76029262.mesh"
+
+[deps]
+
+files=[ "res://.import/tableCoffee.obj-bf84446e8072c30760b5316b76029262.mesh" ]
+
+source_file="res://Assets/Furniture/Models/OBJ format/tableCoffee.obj"
+dest_files=[ "res://.import/tableCoffee.obj-bf84446e8072c30760b5316b76029262.mesh", "res://.import/tableCoffee.obj-bf84446e8072c30760b5316b76029262.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

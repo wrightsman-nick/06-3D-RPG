@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/kitchenBarEnd.obj-63fb0b773913aef21e1ac18047075242.mesh"
+
+[deps]
+
+files=[ "res://.import/kitchenBarEnd.obj-63fb0b773913aef21e1ac18047075242.mesh" ]
+
+source_file="res://Assets/Furniture/Models/OBJ format/kitchenBarEnd.obj"
+dest_files=[ "res://.import/kitchenBarEnd.obj-63fb0b773913aef21e1ac18047075242.mesh", "res://.import/kitchenBarEnd.obj-63fb0b773913aef21e1ac18047075242.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
